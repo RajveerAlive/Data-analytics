@@ -1,4 +1,4 @@
 # Data-analytics
-Attachment contains
-Data analytics potrfolio
-8weeks training certificate
+Attachments contain
+1.Data analytics potrfolio
+2.8weeks training certificate
